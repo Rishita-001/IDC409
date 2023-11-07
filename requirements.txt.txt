@@ -1,0 +1,9 @@
+Torch
+Transformers
+Sound file
+Numpy
+librosa
+Pydub
+Json
+os
+shutil
