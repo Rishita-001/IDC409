@@ -1,3 +1,11 @@
+This is a project file for IDC409 for speech to text conversion.
+
+Group members - 
+
+Rishita (MS21001) 
+Nidhi (MS21105)
+Bhavya (MS21112)
+
 # Speech Recognition with Wav2Vec 2.0
 
 This repository contains a set of functions designed to facilitate the processing of speech data and to perform speech recognition using the pre-trained Wav2Vec 2.0 model.
@@ -82,7 +90,9 @@ When using the LibriSpeech dataset, please include the following citation:
 ## Contributers
 
 1- Rishita (MS21001)
+
 2- Nidhi (MS21105)
+
 3- Bhavya (MS21112)
 
 ## Acknowledgments
